@@ -1,0 +1,51 @@
+#bodyId {
+	background-color: #333333;
+}
+
+#mainContents,#myModalOne, #myModalTwo {
+	color: #f7feff;
+	font-family: "Orbitron", sans-serif;
+}
+
+#myModalOne, #myModalTwo {
+	color: #f7feff;
+	background: #333333;
+	border-color: #f7feff;
+}
+
+#startGameButton, #playAgainButton, #newGameButton {
+	border-color: #f7feff;
+	background-color: #51b8fd;
+	height: 50px;
+	width: 150px;
+}
+
+#myModalTwo button {
+	align-content: center;
+}
+
+#welcomeHeader {
+	margin-top: 20px;
+	background-color: #333333;
+	border: 5px solid #f7feff;
+}
+
+.board {
+	border-radius: 25px;
+	align-items: center;
+}
+
+.playerOneText {
+	color: #fff587;
+}
+
+.playerTwoText {
+	color: #ff5252;
+}
+
+button {
+	height: 80px;
+	width: 80px;
+	border: 3px solid #2294e0;
+	background-color: #f7feff;
+}
